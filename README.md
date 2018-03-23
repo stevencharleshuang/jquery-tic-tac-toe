@@ -1,6 +1,6 @@
 # Tic Tac Toe Lab
 
-![tic-tac-toe meme](assets/ttt_meme)
+![tic-tac-toe meme](assets/ttt_meme.jpg)
 
 **Objective:** Build a tic tac toe game in HTML and JavaScript using jQuery.
 
