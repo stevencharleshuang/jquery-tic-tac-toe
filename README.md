@@ -1,6 +1,6 @@
 # Tic Tac Toe Lab
 
-![tic-tac-toe meme](http://s2.quickmeme.com/img/f4/f4e30f18795f57f1d66649804cf572f2bf22e3e154f0aaf989c0b48ba53dd9d8.jpg)
+![tic-tac-toe meme](assets/ttt_meme)
 
 **Objective:** Build a tic tac toe game in HTML and JavaScript using jQuery.
 
