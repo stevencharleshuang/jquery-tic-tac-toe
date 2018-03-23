@@ -28,7 +28,7 @@
   },
   "ga_co": {
     "duration": "8",
-    "type": "lab",
+    "type": "lab"
   },
   "homepage": "https://github.com/ga-wdi-exercises/tic_tac_toe#readme",
   "dependencies": {
